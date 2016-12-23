@@ -1,5 +1,5 @@
 # microinvader
-Space Invader created with MicroServices
+Space Invaders created with MicroServices
 
 To Run, open the ZIP file (microinvader) 
 
